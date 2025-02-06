@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Biogas_BackendEF.props" />
+</Project>
